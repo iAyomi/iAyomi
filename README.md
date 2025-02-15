@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayomitunde Isijola but you can call me Ayomi if we become friends🙂
 - 👀 My major interests are in traveling, tennis, programming, and coffee☕️.
-- 🌱 I’m a Frontend Engineer with a vast arsenal of Frontend Tools. I am incredibly passionate about Developer Experience, Developer Velocity and Workflow Efficiency.
-- 💞️ I’m looking to collaborate on whatever that will help me learn. 
+- 🌱 I’m a Frontend Engineer with good experience working with several tools. I am passionate about Developer Experience, Developer Velocity and Workflow Efficiency.
+- 💞️ I’m looking to collaborate on any project that will help me learn. 
 - 📫 How to reach me => mailto@ayomitunde.isijola@gmail.com
 
 <!---
